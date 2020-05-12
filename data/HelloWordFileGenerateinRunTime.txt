@@ -1,0 +1,4 @@
+Un fichero de ejemplo para subir al blob y para descargar del blob
+será creado en esta carpeta!
+
+Este fichero es únicamente informativo

@@ -32,7 +32,7 @@ Retrieve the connection string for use with the application. The storage connect
 **Task 2. Create a container**
 Create a BlobServiceClient object which will be used to create a container client and creating a unique name for the containerCreate the container and return a container client object.
 
-**Task 3. Upload blobs to a container **
+**Task 3. Upload blobs to a container**
 Create a local file in the ./data/ directory for uploading and downloading, Write text to the file, get a reference to a blob and finally Open the file and upload its data.
 
 **Task 4. List the blobs in a container**
